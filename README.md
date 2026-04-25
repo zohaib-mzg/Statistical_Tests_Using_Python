@@ -20,9 +20,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Input Data Format](#input-data-format)
-- [Example Output](#example-output)
 - [Statistical Concepts Reference](#statistical-concepts-reference)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
